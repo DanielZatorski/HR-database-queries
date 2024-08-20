@@ -15,7 +15,7 @@ A collection of SQL queries designed to support human resources (HR) functions. 
 Before running these queries, ensure you have:
 
 - Access to a SQL-compatible database (in my case PostgreSQL)
-- Attached .csv files ([data_files](HR-database-queries/data_files))
+- Attached .csv files ([data_files](/data_files))
 
 ## Basic Schematic of tables
 
