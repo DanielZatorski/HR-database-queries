@@ -7,6 +7,7 @@ A collection of SQL queries designed to support human resources (HR) functions. 
 - Prerequisites
 - Basic Schematic of tables
 - List of Queries
+- Query Outcome Files
 
 
 
@@ -30,3 +31,6 @@ Before running these queries, ensure you have:
 - [Distribution of Titles Across Employees](SQL_queries/3.Distribution_of_Titles_Across_Employees.sql)
 - [List of newest employees by Hire Date](SQL_queries/4.Employee_details_by_hiring_date.sql)
 - [Top 5 earners from each department](SQL_queries/5.Top_5_earners_by_each_department.sql)
+
+## Query Outcome Files
+- Access query generated files ([.csv files](/query_csv_files))
